@@ -9,8 +9,8 @@ Esta relación estrecha entre «Dev» y «Ops» se extiende a cada una de las fa
 Algunas personas agrupan los objetivos de DevOps en cuatro categorías: cultura, automatización, medición y uso compartido (CAMS, por sus siglas en inglés), y las herramientas de DevOps pueden ayudar en estas tareas. Con estas herramientas, los flujos de trabajo de desarrollo y operaciones se convierten en tareas más optimizadas y colaborativas al automatizar tareas que antes eran manuales, estáticas o que llevaban mucho tiempo, y que son necesarias para la integración, el desarrollo, las pruebas, la puesta en marcha o la supervisión.
 
 ## Índice
-1. [Filosofía_devops](filosofía_DevOps.md)
-2. [Herramientas_devops](Herramientas_devops.md)
+1. [Filosofía devops](filosofía_DevOps.md)
+2. [Herramientas devops](Herramientas_devops.md)
 3. [Oferta empleo](Oferta_empleo.md)
 
 a
