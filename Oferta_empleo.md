@@ -8,7 +8,7 @@
 **Beneficios sociales:** Teletrabajo
 
 **Requisitos mínimos:**
--Experiencia como Software Developer Tester Engineer o similar.
+- Experiencia como Software Developer Tester Engineer o similar.
 - Experiencia como DevOps.
 - Desarrollo de pruebas e implementación de marcos de automatización.
 - Fluidez con arquitecturas relacionadas con API, REST, AsyncAPIs...
