@@ -1,10 +1,15 @@
 # Oferta empleo
 
 **Lugar de trabajo:** QA Software Engineer
+
 **Tecnologías exigidas:** Ciclo Formativo Grado Superior
+
 **Experiencia previa exigida:** Al menos 4 años	 
+
 **Idiomas:** Nivel medio de ingles.
+
 **Sueldo:** No disponible
+
 **Beneficios sociales:** Teletrabajo
 
 **Requisitos mínimos:**
