@@ -13,4 +13,7 @@ Algunas personas agrupan los objetivos de DevOps en cuatro categorías: cultura,
 2. [Herramientas devops](Herramientas_devops.md)
 3. [Oferta empleo](Oferta_empleo.md)
 
-a
+## Referencia
+[DEVOPS](https://azure.microsoft.com/es-es/resources/cloud-computing-dictionary/what-isdevops#:~:text=Definici%C3%B3n%20de%20DevOps,los%20clientes%20de%20forma%20constante.)
+
+![](e.jpg)
